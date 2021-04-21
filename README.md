@@ -1,6 +1,6 @@
 # Netter
 Netter by Oshada Basnayake
 Netter Version
-tool
+tools
 Category
 
